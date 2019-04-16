@@ -1,0 +1,4 @@
+## .gitignore file for glad-scaffold
+
+## ignore folder fetched through gclient
+glad
